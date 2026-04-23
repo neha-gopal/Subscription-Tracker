@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Subscription Statistics</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="statistics.css">
+        <script type="text/javascript" src="statistics.js" defer></script>
+    </head>
+    <body>
+        <div class = "background"></div>
+        <div class = "subscriptionTab"></div>
+        <div class ="lengthTab"></div>
+        <div class ="costTab"></div>
+        <div class ="statisticsBox"></div>
+        <div class ="statisticsBoxShadow"></div>
+        <div class ="statisticsText">Statistics</div>
+        <div class ="noticeDate">Monthly Total</div>
+        <div class ="subscriptionText">Subscriptions</div>
+        <div class ="lengthText">Count</div>
+        <div class ="costText">Yearly Total</div>
+        <div class ="subscriptionBox"></div>
+        <div class ="lengthBox"></div>
+        <div class ="costBox"></div>
+        <div class ="homePage">Home Page</div>
+        <div class ="subsPage">Subscription Page</div>
+
+        <div id="monthlyTotal" style="position:absolute; top:205px; left:125px; z-index:4; font-size:28px; font-weight:700;">$0.00</div>
+        <div id="subscriptionCount" style="position:absolute; top:205px; left:445px; z-index:4; font-size:28px; font-weight:700;">0</div>
+        <div id="yearlyTotal" style="position:absolute; top:205px; left:690px; z-index:4; font-size:28px; font-weight:700;">$0.00</div>
+        <div id="statsStatus" style="position:absolute; top:300px; left:105px; z-index:4; font-weight:600;"></div>
+        <ul id="statsSubscriptionList" style="position:absolute; top:340px; left:105px; width:650px; z-index:4; background:white; border-radius:16px; padding:20px 30px; min-height:250px;"></ul>
+
+        <a href ="/main">
+            <button class = "statsHomeButton"></button>
+        </a>
+        <img class ="statsHomeImg" src = "https://media.discordapp.net/attachments/754839784509145178/870557898613338202/unknown.png" alt ="house">
+
+        <a href ="/subscriptions">
+            <button class = "statsSubButton"></button>
+        </a>
+        <img class = "statsSubImg" src = "https://media.discordapp.net/attachments/754839784509145178/870598228893126656/unknown.png" alt = "subscription">
+    </body>
+</html>

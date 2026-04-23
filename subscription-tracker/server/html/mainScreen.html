@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Subscription Tracker</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="mainScreen.css">
+        <script type="text/javascript" src="mainScreen.js" defer></script>
+    </head>
+    <body>
+        <div class = "container1"></div>
+        <div class = "container2"></div>
+        <div class = "buttonShadow"></div>
+        <div class = "leftCircle"></div>
+        <div class="middleCircle"></div>
+        <div class ="rightCircle"></div>
+        <h1>Subscription Tracker</h1>
+        <h2>Keep all recurring payments in one place</h2>
+        <div class="info1">Track your subscriptions in one dashboard.</div>
+        <div class="info2">Store your data in MongoDB after signing in.</div>
+        <div class="info3">See your total monthly and yearly spend instantly.</div>
+        <img class="img1" src ="https://cdn.discordapp.com/attachments/754839784509145178/870483360332517386/unknown.png" alt = "Flowers">
+        <a href ="/subscriptions">
+            <button class="buttonBox">
+                <div>
+                    Get Started
+                </div>
+            </button>
+         </a>
+        <img class="img2" src = "https://cdn.discordapp.com/attachments/754839784509145178/870504820463792199/unknown.png" alt = "thumbtack"></img>
+        <img class="img3" src = "https://cdn.discordapp.com/attachments/754839784509145178/870507580437434419/unknown.png" alt ="List">
+        <img class="img4" src = "https://cdn.discordapp.com/attachments/754839784509145178/870507604445638676/unknown.png" alt ="dollar">
+
+        <button id="button" class ="signUpBox"></button>
+        <button class ="signInBox"></button>
+
+        <div class ="signUpText">Sign Up</div>
+        <div class = "signInText">Sign In</div>
+        <div id="authStatus" style="position:absolute; left:110px; top:700px; max-width:450px; font-weight:600; z-index:3;"></div>
+
+        <div id="background" class="background">
+            <div id="popUp" class="popUp"></div>
+            <div class="close">+</div>
+            <img class = "addUser" src="https://image.flaticon.com/icons/png/512/747/747385.png" alt="add user">
+            <form id="signupForm">
+                <input required class="entryArea" type="text" id="fname" name="fname" placeholder="Username">
+                <input required class="entryPassword" type="password" id="fpass" name="fpass" placeholder="Password">
+                <input required class="entryEmail" type="email" id="femail" name="femail" placeholder="Email">
+                <input type="submit" value="Submit" class = "submit">
+            </form>
+        </div>
+
+        <div id="background2" class="background2">
+            <div id="popUp2" class="popUp2"></div>
+            <div class="close2">+</div>
+            <img class = "addUser2" src="https://image.flaticon.com/icons/png/512/747/747385.png" alt="add user">
+            <form id="signinForm">
+                <input required class="entryArea2" type="text" id="loginUsername" placeholder="Username">
+                <input required class="entryPassword2" type="password" id="loginPassword" placeholder="Password">
+                <input type="submit" value="Submit" class="submit2" style="border:none; cursor:pointer;">
+            </form>
+        </div>
+    </body>
+</html>

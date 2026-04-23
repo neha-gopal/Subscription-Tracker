@@ -1,0 +1,432 @@
+.container1 {
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    height: 537px;
+    left: 0px;
+    top: 0px;
+
+    background: #FAF9F9;
+    border-radius: 0px 0px 41px 41px;
+}
+
+.container2 {
+        position: absolute;
+        z-index: 1;
+        width: 100%;
+        height: 100%;
+        left: 0px;
+        top: 370px;
+
+        background: #424B54;
+} 
+
+h1 {
+    position: absolute;
+    z-index: 3;
+    width: 447px;
+    height: 112px;
+    left: 59px;
+    top: 60px;
+
+    font-family: Courier New;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 83px;
+    line-height: 108px;
+
+    color: #424B54;
+
+}
+
+h2 {
+    position: absolute;
+    z-index: 4;
+    width: 341px;
+    height: 41px;
+    left: 59px;
+    top: 268px;
+
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #9B6A6C;
+
+}
+
+.buttonShadow {
+    
+            position: absolute;
+            z-index: 5;
+            width: 287px;
+            height: 75px;
+            left: 330px;
+            top: 380px;
+
+            background: #AEBACB;
+            border-radius: 12px;
+}
+
+.leftCircle {
+            position: absolute;
+            z-index: 6;
+            width: 93px;
+            height: 93px;
+            left: 229px;
+            top: 669px;
+            border-radius: 200px;
+            background: #89B0AE;
+}
+.middleCircle {
+            position: absolute;
+            z-index: 7;
+            width: 93px;
+            height: 93px;
+            left: 671px;
+            top: 669px;
+            border-radius: 200px;
+            background: #89B0AE;
+            padding: 0;
+}
+
+.rightCircle {
+            
+            position: absolute;
+            z-index: 8;
+            width: 93px;
+            height: 93px;
+            left: 1112px;
+            top: 669px;
+            border-radius: 200px;
+            background: #89B0AE;
+}
+
+.info1 { 
+            position: absolute;
+            z-index: 9;
+            width: 185px;
+            height: 80px;
+            left: 183px;
+            top: 784px;
+
+            font-family: Thasadith;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 23px;
+            line-height: 30px;
+            text-align: center;
+
+            color: #FFFFFF;
+        }
+
+.info2 {
+        position: absolute;
+        z-index: 10;
+        width: 172px;
+        height: 57px;
+        left: 644px;
+        top: 783px;
+
+        font-family: Thasadith;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 23px;
+        line-height: 30px;
+        text-align: center;
+
+        color: #FFFFFF;
+}
+
+.info3 {
+        position: absolute;
+        z-index: 11;
+        width: 209px;
+        height: 35px;
+        left: 1054px;
+        top: 783px;
+
+        font-family: Thasadith;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 23px;
+        line-height: 30px;
+        text-align: center;
+
+        color: #FFFFFF;
+}
+
+
+.img1 { 
+        position: relative;
+        z-index: 12;
+        width: 662.14px;
+        height: 504.28px;
+        left: 761.71px;
+        top: 113px;
+
+        background: url(image.png);
+        border-radius: 19px;
+        transform: rotate(6deg);
+    }
+.buttonBox {
+        position: absolute;
+        z-index: 13;
+        width: 291px;
+        height: 84px;
+        left: 303px;
+        top: 352px;
+
+        background: #1C243A;
+        border-radius: 12px;
+
+        font-family: Thasadith;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 47px;
+
+        color: #ffffff;
+}
+
+/* .textButton {
+        position: absolute;
+        z-index: 14;
+        height: 35px;
+        left: 358px;
+        top: 370px;
+
+        font-family: Thasadith;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 47px;
+
+        color: #ffffff;   
+} */
+
+.img2 {
+    position: absolute;
+    z-index: 15;
+    width: 56px;
+    height: 56px;
+    left: 247px;
+    top: 688px;
+   
+}
+.img3 {
+    position: absolute;
+    z-index: 15;
+    width: 61px;
+    height: 61px;
+    left: 687px;
+    top: 685px;
+
+}
+.img4{
+    position: absolute;
+    z-index:  15;
+    width: 68px;
+    height: 68px;
+    left: 1125px;
+    top: 682px;
+}
+.signUpBox {
+    position: absolute;
+    z-index: 15;
+    width: 153px;
+    height: 44px;
+    left: 1065px;
+    top: 23px;
+
+    background: #DABABB;
+    border-radius: 5px;
+}
+.signInBox {
+    position: absolute;
+    z-index: 15;
+    width: 153px;
+    height: 44px;
+    left: 1252px;
+    top: 23px;
+
+    background: #DABABB;
+    border-radius: 5px;
+}
+.signUpText{
+    position: absolute;
+    z-index: 16;
+    width: 88px;
+    height: 32px;
+    left: 1098px;
+    top: 29px;
+
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 30px;
+
+    color: #555B6E;
+}
+.signInText{
+        position: absolute;
+        z-index: 16;
+        width: 88px;
+        height: 32px;
+        left: 1294px;
+        top: 29px;
+
+        font-family: Thasadith;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 23px;
+        line-height: 30px;
+
+        color: #555B6E;
+}
+.background {
+    position: absolute;
+    z-index: 17;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+}
+.popUp {
+    position: absolute;
+    z-index: 18;
+    width: 500px;
+    height: 300px; 
+    background-color: #FAF9F9;
+
+}
+.addUser {
+    position: relative;
+    z-index: 19;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    top: -100px;
+
+  
+}
+.entryArea { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 520px;
+}
+.entryPassword { 
+    position: absolute;
+    z-index: 19;
+    width: 200px;
+    height: 20px;
+    top: 560px;
+}
+.entryEmail { 
+    position: absolute;
+    z-index: 19;
+    width: 200px;
+    height: 20px;
+    top: 600px;
+}   
+.submit { 
+    position: absolute;
+    z-index: 19;
+    width: 100px;
+    height: 20px;
+    top: 640px;
+    background-color: #89B0AE;
+    text-align: center;
+}
+.close {
+    position: absolute;
+    z-index: 19;
+    right: 515px;
+    top: 405px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+
+
+
+
+
+.background2 {
+    position: absolute;
+    z-index: 18;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+  
+
+}
+.popUp2 {
+    position: absolute;
+    z-index: 18;
+    width: 500px;
+    height: 300px; 
+    background-color: #FAF9F9;
+
+}
+.addUser2 {
+    position: relative;
+    z-index: 19;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    top: -100px;
+
+  
+}
+.entryArea2 { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 520px;
+}
+.entryPassword2 { 
+    position: absolute;
+    z-index: 19;
+    width: 200px;
+    height: 20px;
+    top: 560px;
+}
+
+ 
+.submit2 { 
+    position: absolute;
+    z-index: 19;
+    width: 100px;
+    height: 20px;
+    top: 640px;
+    background-color: #89B0AE;
+    text-align: center;
+}
+.close2 {
+    position: absolute;
+    z-index: 19;
+    right: 515px;
+    top: 405px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}

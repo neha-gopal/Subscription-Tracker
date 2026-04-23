@@ -1,0 +1,1282 @@
+.containerOutside {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 1038px;
+    left: 0px;
+    top: 0px;
+
+    background: #424B54;
+}
+.containerInside {
+position: absolute;
+z-index: 2;
+width: 1117px;
+height: 981px;
+left: 25px;
+top: 20px;
+
+background: #FAF9F9;
+border-radius: 0px 20px 20px 0px;
+
+}
+.containerTitle {
+position: absolute;
+z-index: 3;
+width: 490px;
+height: 63px;
+left: 338px;
+top: 74px;
+
+background: #424B54;
+border-radius: 11px;
+}
+.pinkButtonHome {
+    position: absolute;
+    z-index: 4;
+    width: 206px;
+    height: 90px;
+    left: 1194px;
+    top: 180px;
+    
+    background: #DABABB;
+    box-shadow: 23px 19px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 53px;
+
+}
+
+.house {
+    position: absolute;
+    z-index: 5;
+    width: 85px;
+    height: 85px;
+    left: 1254px;
+    top: 180px;
+
+}
+.pinkButtonStats {
+    position: absolute;
+    z-index: 5;
+    width: 206px;
+    height: 90px;
+    left: 1194px;
+    top: 467px;
+
+    background: #DABABB;
+    box-shadow: 23px 19px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 53px;
+}
+.stats { 
+    position: absolute;
+    z-index: 5;
+    width: 70px;
+    height: 70px;
+    left: 1266px;
+    top: 477px;
+}
+.homeText {
+    position: absolute;
+    z-index: 5;
+    width: 276px;
+    height: 111px;
+    left: 1164px;
+    top: 294px;
+    
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 34px;
+    text-align: center;
+    
+    color: #EEEEEE;
+}
+.statsText {
+    position: absolute;
+    z-index: 5;
+    width: 276px;
+    height: 111px;
+    left: 1163px;
+    top: 578px;
+    
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 34px;
+    text-align: center;
+    
+    color: #EEEEEE;
+}
+.newSubText {
+    position: absolute;
+    z-index: 5;
+    width: 276px;
+    height: 111px;
+    left: 1164px;
+    top: 842px;
+    
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 34px;
+    text-align: center;
+    
+    color: #EEEEEE;
+}
+.addSubscription {
+    position: absolute;
+    z-index: 5;
+    width: 471px;
+    height: 55px;
+    left: 400px;
+    top: 71px;
+    
+    font-family: Thabit;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 63px;
+    
+    color: #ECDCDD;
+       
+}
+.greenCircle1 {
+    position: absolute;
+    z-index: 6;
+    width: 78px;
+    height: 78px;
+    left: 76px;
+    top: 225px;
+    border-radius: 200px;
+
+    background: #89B0AE;
+}
+
+.greenCircle2 {
+    z-index: 6;
+    border-radius: 200px;
+    position: absolute;
+width: 78px;
+height: 78px;
+left: 76px;
+top: 397px;
+
+background: #89B0AE;
+
+
+}
+
+.greenCircle3 {
+    z-index: 6;
+    border-radius: 200px;
+
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    left: 76px;
+    top: 569px;
+    
+    background: #89B0AE;
+}
+
+
+.greenCircle4 {
+    z-index: 6;
+    border-radius: 200px;
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    left: 76px;
+    top: 741px;
+
+    background: #89B0AE;
+}
+
+
+.greenCircle5 {
+    z-index: 6;
+    border-radius: 200px;
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    left: 395px;
+    top: 225px;
+    
+    background: #89B0AE;
+}
+
+
+.greenCircle6 {
+    z-index: 6; 
+    border-radius: 200px;
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    left: 395px;
+    top: 397px;
+
+    background: #89B0AE;
+}
+
+
+
+.greenCircle7 {
+    z-index: 6;
+    border-radius: 200px;
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    left: 395px;
+    top: 569px;
+    
+    background: #89B0AE;
+}
+
+
+
+.greenCircle8 {
+    z-index: 6;
+    border-radius: 200px;
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    left: 395px;
+    top: 741px;
+    
+    background: #89B0AE;
+}
+
+
+
+.greenCircle9 {
+    z-index: 6;
+    border-radius: 200px;
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    left: 714px;
+    top: 225px;
+
+    background: #89B0AE;
+}
+
+
+.greenCircle10 {
+    z-index: 6;
+    border-radius: 200px;
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    left: 714px;
+    top: 382px;
+    
+    background: #89B0AE;
+}
+
+
+
+.greenCircle11 {
+    z-index: 6;
+    border-radius: 200px;
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    left: 714px;
+    top: 569px;
+    
+    background: #89B0AE;
+}
+
+.greenCircle12 {
+    z-index: 6;
+    border-radius: 200px;
+    
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    left: 714px;
+    top: 756px;
+
+    background: #89B0AE;
+}
+.circle1 {
+    position: absolute;
+    z-index: 7;
+    width: 56px;
+    height: 56px;
+    left: 87px;
+    top: 236px;
+   
+}
+.circle2{
+    z-index: 7;
+
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    left: 92px;
+    top: 412px;
+    
+    background: url(image.png);
+    mix-blend-mode: color-burn;
+}
+
+.circle3{
+    z-index: 7; 
+
+    position: absolute;
+    width: 53px;
+    height: 52.05px;
+    left: 89px;
+    top: 582px;
+    
+    background: url(image.png);
+    mix-blend-mode: color-burn; 
+}
+
+.circle4{
+    z-index: 7; 
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    left: 87px;
+    top: 748px;
+    
+    background: url(image.png);     
+}
+
+
+.circle5{
+    z-index: 7;   
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 407px;
+    top: 236px;
+    
+    background: url(image.png); 
+}
+
+
+.circle6{
+    z-index: 7;   
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    left: 411px;
+    top: 411px;
+    
+    background: url(image.png);
+}
+
+
+.circle7{
+    z-index: 7;  
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 412px;
+    top: 586px;
+    
+    background: url(image.png); 
+}
+
+
+.circle8{
+    z-index: 7;    
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 412px;
+    top: 756px;
+    
+    background: url(image.png);
+}
+
+
+.circle9{
+    z-index: 7;   
+    position: absolute;
+    width: 58px;
+    height: 58px;
+    left: 725px;
+    top: 235px;
+    
+    background: url(image.png);
+}
+
+
+
+.circle10{
+    z-index: 7;  
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 732px;
+    top: 399px;
+    
+    background: url(image.png); 
+}
+
+
+.circle11{
+    z-index: 7;  
+    position: absolute;
+    width: 67px;
+    height: 67px;
+    left: 720px;
+    top: 574px;
+    
+    background: url(image.png); 
+}
+
+
+.circle12{
+    z-index: 7;   
+    position: absolute;
+    width: 79px;
+    height: 44.53px;
+    left: 714px;
+    top: 773px;
+    
+    background: url(image.png);
+}
+
+
+
+.netflix {
+    position: absolute;
+    z-index: 5;
+    width: 237px;
+    height: 30px;
+    left: 117px;
+    top: 243px;
+
+    border: 0px;
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #424B54;
+    background: #FAF9F9
+
+}
+
+
+.background3 {
+    position: absolute;
+    z-index: 18;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+  
+
+}
+.popUp3 {
+    position: absolute;
+    z-index: 18;
+    width: 400px;
+    height: 200px; 
+    background-color: #696e81;
+
+}
+
+  
+
+.basicNetflix { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 500px;
+}
+.standardNetflix { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 540px;
+}
+.premiumNetflix { 
+    position: absolute;
+    z-index: 19;
+    width: 200px;
+    height: 20px;
+    top: 580px;
+    }
+.close3{
+    position: absolute;
+    z-index: 19;
+    right: 560px;
+    top: 445px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.hulu {
+    position: absolute;
+    z-index: 5;
+    width: 237px;
+    left: 117px;
+    height: 30px;
+    top: 406px;
+    
+    border: 0px;
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #424B54;
+    background: #FAF9F9
+
+
+}
+.background14 {
+    position: absolute;
+    z-index: 18;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+  
+
+}
+.popUp14 {
+    position: absolute;
+    z-index: 18;
+    width: 400px;
+    height: 200px; 
+    background-color: #696e81;
+
+}
+
+  
+
+.adSupportedHulu { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 520px;
+}
+.close14{
+    position: absolute;
+    z-index: 19;
+    right: 560px;
+    top: 445px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.hboMax {
+    position: absolute;
+    z-index: 5;
+    width: 237px;
+    height: 30px;
+    left: 117px;
+    top: 578px;
+
+    border: 0px;
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #424B54;
+    background: #FAF9F9
+}
+.background4 {
+    position: absolute;
+    z-index: 18;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+  
+
+}
+.popUp4 {
+    position: absolute;
+    z-index: 18;
+    width: 400px;
+    height: 200px; 
+    background-color: #696e81;
+
+}
+
+  
+
+.withAds { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 520px;
+}
+.close4{
+    position: absolute;
+    z-index: 19;
+    right: 560px;
+    top: 445px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+.disneyPlus {
+    position: absolute;
+    z-index: 5;
+    width: 237px;
+    height: 30px;
+    left: 140px;
+    top: 759px;
+
+    border: 0px;
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #424B54;
+    background: #FAF9F9
+}
+.background5 {
+    position: absolute;
+    z-index: 18;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+  
+
+}
+.popUp5 {
+    position: absolute;
+    z-index: 18;
+    width: 400px;
+    height: 200px; 
+    background-color: #696e81;
+
+}
+
+  
+
+.standardDisneyPlus { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 520px;
+}
+.close5{
+    position: absolute;
+    z-index: 19;
+    right: 560px;
+    top: 445px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+
+.youtubePremium {
+    position: absolute;
+    z-index: 5;
+    width: 237px;
+    height: 30px;
+    left: 480px;
+    top: 237px;
+
+    border: 0px;
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #424B54;
+    background: #FAF9F9
+}
+.background6 {
+    position: absolute;
+    z-index: 18;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+  
+
+}
+.popUp6 {
+    position: absolute;
+    z-index: 18;
+    width: 400px;
+    height: 200px; 
+    background-color: #696e81;
+
+}
+
+  
+
+.standardYoutubePremium { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 520px;
+}
+.close6{
+    position: absolute;
+    z-index: 19;
+    right: 560px;
+    top: 445px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.appleTv {
+    position: absolute;
+    z-index: 5;
+    width: 237px;
+    height: 30px;
+    left: 480px;
+    top: 406px;
+
+    border: 0px;
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #424B54;
+    background: #FAF9F9
+}
+.background7 {
+    position: absolute;
+    z-index: 18;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+  
+
+}
+.popUp7 {
+    position: absolute;
+    z-index: 18;
+    width: 400px;
+    height: 200px; 
+    background-color: #696e81;
+
+}
+
+  
+
+.standardAppleTv { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 520px;
+}
+.close7{
+    position: absolute;
+    z-index: 19;
+    right: 560px;
+    top: 445px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+
+.spotify {
+    position: absolute;
+    z-index: 5;
+    width: 237px;
+    height: 30px;
+    left: 480px;
+    top: 578px;
+
+    border: 0px;
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #424B54;
+    background: #FAF9F9
+}
+.background8 {
+    position: absolute;
+    z-index: 18;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+  
+
+}
+.popUp8 {
+    position: absolute;
+    z-index: 18;
+    width: 400px;
+    height: 200px; 
+    background-color: #696e81;
+
+}
+
+  
+
+.individualSpotify { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 520px;
+}
+.close8{
+    position: absolute;
+    z-index: 19;
+    right: 560px;
+    top: 445px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.appleMusic {
+    position: absolute;
+    z-index: 5;
+    width: 237px;
+    height: 30px;
+    left: 480px;
+    top: 759px;
+
+    border: 0px;
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #424B54;
+    background: #FAF9F9
+}
+.background9 {
+    position: absolute;
+    z-index: 18;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+  
+
+}
+.popUp9 {
+    position: absolute;
+    z-index: 18;
+    width: 400px;
+    height: 200px; 
+    background-color: #696e81;
+
+}
+
+  
+
+.studentAppleMusic { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 520px;
+}
+.close9{
+    position: absolute;
+    z-index: 19;
+    right: 560px;
+    top: 445px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.grammarly {
+    position: absolute;
+    z-index: 5;
+    width: 237px;
+    height: 30px;
+    left: 835px;
+    top: 243px;
+
+    border: 0px;
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #424B54;
+    background: #FAF9F9
+}
+.background10 {
+    position: absolute;
+    z-index: 18;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+  
+
+}
+.popUp10 {
+    position: absolute;
+    z-index: 18;
+    width: 400px;
+    height: 200px; 
+    background-color: #696e81;
+
+}
+
+  
+
+.premiumGrammarly { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 520px;
+}
+.close10{
+    position: absolute;
+    z-index: 19;
+    right: 560px;
+    top: 445px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.adobe {
+    position: absolute;
+    z-index: 5;
+    width: 237px;
+    height: 30px;
+    left: 844px;
+    top: 406px;
+
+    border: 0px;
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #424B54;
+    background: #FAF9F9
+}
+.background11 {
+    position: absolute;
+    z-index: 18;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+  
+
+}
+.popUp11 {
+    position: absolute;
+    z-index: 18;
+    width: 400px;
+    height: 200px; 
+    background-color: #696e81;
+
+}
+
+  
+
+.singleAppAdobe { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 520px;
+}
+.close11{
+    position: absolute;
+    z-index: 19;
+    right: 560px;
+    top: 445px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.amazonPrime {
+    position: absolute;
+    z-index: 5;
+    width: 237px;
+    height: 30px;
+    left: 835px;
+    top: 578px;
+
+    border: 0px;
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #424B54;
+    background: #FAF9F9
+}
+.background12 {
+    position: absolute;
+    z-index: 18;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+  
+
+}
+.popUp12 {
+    position: absolute;
+    z-index: 18;
+    width: 400px;
+    height: 200px; 
+    background-color: #696e81;
+
+}
+
+  
+
+.standardAmazonPrime { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 520px;
+}
+.close12{
+    position: absolute;
+    z-index: 19;
+    right: 560px;
+    top: 445px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.discordNitro {
+    position: absolute;
+    z-index: 5;
+    width: 237px;
+    height: 30px;
+    left: 835px;
+    top: 774px;
+
+    border: 0px;
+    font-family: Thasadith;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+
+    color: #424B54;
+    background: #FAF9F9
+}
+.background13 {
+    position: absolute;
+    z-index: 18;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+  
+
+}
+.popUp13 {
+    position: absolute;
+    z-index: 18;
+    width: 400px;
+    height: 200px; 
+    background-color: #696e81;
+
+}
+
+  
+
+.classicDiscordNitro { 
+position: absolute;
+z-index: 19;
+width: 200px;
+height: 20px;
+top: 520px;
+}
+.close13{
+    position: absolute;
+    z-index: 19;
+    right: 560px;
+    top: 445px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.pinkButtonSubscription {
+    position: absolute;
+    z-index: 4;
+    width: 206px;
+    height: 90px;
+    left: 1198px;
+    top: 731px;
+
+    background: #DABABB;
+    box-shadow: 23px 19px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 53px;
+}
+.plus {
+    position: absolute;
+    z-index: 5;
+    width: 63px;
+    height: 63px;
+    left: 1270px;
+    top: 720px; 
+    font-size: 103px;
+}
+
+
+.background15 {
+    position: absolute;
+    z-index: 18;
+    height: 150%;
+    width: 100%; 
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+  
+
+}
+.popUp15 {
+    position: absolute;
+    z-index: 18;
+    width: 400px;
+    height: 200px; 
+    background-color: #696e81;
+
+}
+
+
+.close15{
+    position: absolute;
+    z-index: 19;
+    right: 560px;
+    top: 445px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+.subscriptionName {
+    position: absolute;
+    z-index: 19;
+    width: 200px;
+    height: 30px;
+    left: 670px;
+    top: 510px;
+}
+.subscriptionCost {
+    position: absolute;
+    z-index: 19;
+    width: 200px;
+    height: 30px;
+    left: 670px;
+    top: 550px;
+}
+.submit {
+    position: absolute;
+    z-index: 19;
+    width: 100px;
+    height: 20px;
+    top: 610px;
+    background-color: #89B0AE;
+    text-align: center;
+}
